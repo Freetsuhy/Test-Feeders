@@ -1,13 +1,13 @@
 # Test-Feeders
-Case 33-bus is originally published in article [1]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case33bw.m.
+Case 33-bus is originally published in article [1]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case33bw.m
 
-Case 69-bus is originally published in article [2]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case69.m.
+Case 69-bus is originally published in article [2]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case69.m
 
-Case 118-bus is originally published in article [3]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case118zh.m.
+Case 118-bus is originally published in article [3]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case118zh.m
 
-Case 136-bus is originally published in article [4]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case136ma.m.
+Case 136-bus is originally published in article [4]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case136ma.m
 
-Case 141-bus is originally published in article [5]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case141.m.
+Case 141-bus is originally published in article [5]. The branch impedance and load profile can be found in Matpower 7.1, i.e., toolbox\matpower7.1\data\case141.m
 
 
 [1] S. K. Goswami and S. K. Basu, “A new algorithm for the reconfiguration of distribution feeders for loss minimization,” IEEE Trans. Power Del., vol. 7, no. 3, pp. 1484-1491, Jul. 1992.
