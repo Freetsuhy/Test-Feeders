@@ -6,15 +6,15 @@ Table 2 shows the output power limits of DERs in each case.
 
 ## Notations
 
-Case 33-bus is originally published in article [1]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case33bw.m
+case33.xlsx is originally published in article [1]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case33bw.m
 
-Case 69-bus is originally published in article [2]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case69.m
+case69.xlsx is originally published in article [2]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case69.m
 
-Case 118-bus is originally published in article [3]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case118zh.m
+case118.xlsx is originally published in article [3]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case118zh.m
 
-Case 136-bus is originally published in article [4]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case136ma.m
+case136.xlsx is originally published in article [4]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case136ma.m
 
-Case 141-bus is originally published in article [5]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case141.m
+case141.xlsx is originally published in article [5]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case141.m
 
 
 [1] S. K. Goswami and S. K. Basu, “A new algorithm for the reconfiguration of distribution feeders for loss minimization,” IEEE Trans. Power Del., vol. 7, no. 3, pp. 1484-1491, Jul. 1992.
