@@ -4,7 +4,7 @@ Table 1 shows the base voltage, and limits of magnitudes of current & voltage.
 
 Table 2 shows the output power limits of DERs in each case.
 
-## Notation of Cases
+## Notations
 
 Case 33-bus is originally published in article [1]. The branch impedance and load profile can be found in Matpower 7.1, i.e., Matlab Library\toolbox\matpower7.1\data\case33bw.m
 
