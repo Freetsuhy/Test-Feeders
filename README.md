@@ -2,7 +2,7 @@
 ## Case Information.docx
 Table 1 shows the base voltage, and limits of magnitudes of current & voltage.
 
-Table 2 shows the output power limits of DERs in each case.
+Table 2 shows the output power limits of substation and DERs in each case.
 
 ## Notations
 
